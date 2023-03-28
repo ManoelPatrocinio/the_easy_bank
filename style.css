@@ -233,7 +233,7 @@ section {
     padding: 5% 0 5% 8%;
 }
 
-#whyChooseEasybanck {
+#whyChooseEasybank {
     padding: 5% 8%;
     background-color: var(--Light_Grayish_Blue);
 }
@@ -256,7 +256,7 @@ section {
     flex-wrap: wrap;
 }
 
-#whyChooseEasybanck .card_content {
+#whyChooseEasybank .card_content {
     margin-top: 4rem;
 }
 
